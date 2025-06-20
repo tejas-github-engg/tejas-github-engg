@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tejas-github-engg
 - 👀 I’m interested in learning new things.
-- 🌱 I’m currently learning frontend devlopment.
+- 🌱 I’m currently learning DSA IN CPP
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me -telkuntetejas@gmail.com
 - 😄 Pronouns: ...
